@@ -1,4 +1,7 @@
-Red Hat® OpenShift® is supported Kubernetes for cloud-native applications with enterprise security. Although Kubernetes has great scalability, workload portability and intuitive abstractions which allows you to separate business and developer concerns, it is still quite a concern to install, deploy and keep clusters operational.
+# Intro to using Kubernetes with Red Hat Minishift and OpenShift
+
+
+>Red Hat® OpenShift® is supported Kubernetes for cloud-native applications with enterprise security. Although Kubernetes has great scalability, workload portability and intuitive abstractions which allows you to separate business and developer concerns, it is still quite a concern to install, deploy and keep clusters operational.
 
 Luckily for us developers, there is Minishift - a tool stack we can use locally on our dev machines and develop and test applications for cloud deployment to test/production Red Hat® OpenShift® environments.
 
@@ -6,6 +9,9 @@ In this workshop, we will run through a series of scenarios for creating, deploy
 
 Pre-requisites:
 Before engaging in any of the labs, make sure you have correctly installed Minishift - https://docs.okd.io/latest/minishift/getting-started/installing.html
+
+## Tutorial
+https://github.com/Grant-Steinfeld/minishift101
 
 Get a head start and join IBM Cloud via https://ibm.biz/BdzAYx
 
@@ -31,6 +37,6 @@ $>  minishift start --vm-driver "virtualbox"
 
 
 ```
-
+### signup for a free [IBM Cloud Account](https://ibm.biz/BdzAYx)
 
 
