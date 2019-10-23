@@ -5,9 +5,9 @@
 
 Luckily for us developers, there is Minishift - a tool stack we can use locally on our dev machines and develop and test applications for cloud deployment to test/production Red Hat® OpenShift® environments.
 
-In this workshop, we will run through a series of scenarios for creating, deploying and managing micro-services within an OpenShift single-node cluster using Minishift.
+> In this workshop, we will run through a series of scenarios for creating, deploying and managing micro-services within an OpenShift single-node cluster using Minishift.
 
-Pre-requisites:
+## Pre-requisites:
 Before engaging in any of the labs, make sure you have correctly installed Minishift - https://docs.okd.io/latest/minishift/getting-started/installing.html
 
 ## Tutorial
@@ -19,10 +19,14 @@ Get a head start and join IBM Cloud via https://ibm.biz/BdzAYx
 
 Agenda:
 
-630pm - doors open, check-in, and get some food
-645pm - round-robin introductions & get to know each other
-7-830pm - presentation
-830-845pm - Q&A
+6:30pm - doors open, check-in, and get some food
+
+6:45pm - round-robin introductions & get to know each other
+
+7-8:30pm - workshop
+
+8:30-8:45pm - Q&A
+
 9pm - venue closes
 
 About Grant
