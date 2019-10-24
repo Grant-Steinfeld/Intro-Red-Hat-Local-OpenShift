@@ -310,22 +310,31 @@ You might find the following resources useful if you’d like to learn more abou
 [ Get started with the Model Asset Exchange](https://developer.ibm.com/tutorials/getting-started-with-the-ibm-code-model-asset-exchange/)
 
 
-### IBM Developer
+### IBM Developer Globally
 
 [Answers](https://developer.ibm.com/answers/)
 
-
 [English](//developer.ibm.com/)
+
 [中文](//www.ibm.com/developerworks/cn/)
+
 [日本語](//www.ibm.com/developerworks/jp/)
+
 [Русский](//www.ibm.com/developerworks/ru/)
+
 [Português](//www.ibm.com/developerworks/br/)
+
 [Español](//www.ibm.com/developerworks/ssa/)
+
 [한글](//developer.ibm.com/kr/)
 
+
 ### Social links
-Follow Us
+Follow Us:
 [Twitter](https://twitter.com/IBMDeveloper)
+
 [LinkedIn](https://www.linkedin.com/showcase/developerworks/)
+
 [Facebook](https://www.facebook.com/IBMDeveloper)
+
 [YouTube](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA)
