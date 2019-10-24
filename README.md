@@ -1,4 +1,5 @@
 # Intro to using Kubernetes with Red Hat Minishift and OpenShift
+# https://bit.ly/2N55gRG
 
 
 >Red Hat® OpenShift® is supported Kubernetes for cloud-native applications with enterprise security. Although Kubernetes has great scalability, workload portability and intuitive abstractions which allows you to separate business and developer concerns, it is still quite a concern to install, deploy and keep clusters operational.
